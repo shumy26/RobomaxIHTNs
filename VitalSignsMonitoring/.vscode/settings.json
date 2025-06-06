@@ -1,0 +1,4 @@
+{
+    "gmParser.hddlPath": "hddl/VitalSignsMonitoring.hddl",
+    "gmParser.configPath": "configuration/configuration.json"
+}
