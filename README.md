@@ -4,6 +4,8 @@
     - Resultado será as IHTNs em json
     - Usando a command palette, selecionar "**Parse IHTNs**"
 
+![ihtns](images/ihtns.png)
+
 ![parse](images/parse.png)
 ![resultado](images/resultado.png)
 
